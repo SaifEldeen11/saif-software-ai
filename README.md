@@ -1,24 +1,10 @@
-# Saif — Software, AI & Automation
+# Saif Software AI website update
 
-Personal portfolio with a midnight and peach palette, Arabic/English copy, interactive technology cards, a booking automation example, and scroll-drawn arrows.
+Upload the contents of this folder to the existing saif-software-ai repository, preserving the assets folder. Keep the existing social-preview.png. No build is needed.
 
-## Run locally
+Changes: Home / Projects / About navigation; visible dotted background with grid zoom; selected projects; expanded About content; detailed service cards and Saif’s actual 30-minute Calendly booking. English/Arabic switch and right-to-left layout. No hero portrait.
 
-Serve this directory with any static web server, for example `python3 -m http.server 8000`, then visit http://localhost:8000.
+The booking calendar is provided by Calendly. Availability and booking submission are handled there. Direct fallback: https://calendly.com/saifeldeenahmed942/30min
 
-## GitHub Pages
-
-In repository Settings → Pages, choose **Deploy from a branch**, **main**, and **/(root)**. No build step is required.
-
-## Edit
-
-- `index.html`: content and translations (`data-en` / `data-ar`).
-- `styles.css`: design and responsive layouts.
-- `app.js`: language toggle, card interaction, booking example, and animation.
-- ``: locally bundled icons and browser tab/social images.
-
-The booking animation is an illustrative example; it does not send email or create a booking. Contact currently links to the owner's GitHub profile.
-
-## Asset credits
-
-Technology marks: [Devicon](https://devicon.dev/) and [Simple Icons](https://simpleicons.org/). Interface icons: [Lucide](https://lucide.dev/), ISC licensed. Fonts served by Google Fonts: DM Sans, DM Serif Display, IBM Plex Sans Arabic, Aref Ruqaa. Product marks belong to their respective owners; inclusion does not imply endorsement.
+Existing website: https://saifeldeen11.github.io/saif-software-ai/
+Reference: https://www.faisalnassef.com/ and user-supplied dark screenshots. Project facts were supplied by Saif and his existing project pages.
